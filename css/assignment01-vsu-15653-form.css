@@ -1,0 +1,23 @@
+*{
+    font-family:    Georgia, 'Times New Roman', Times, serif;
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+}
+
+.form{
+    border-style: dashed;
+    padding: 2%;
+}
+
+.message{
+    width: 50%;
+    height: 100px;
+}
+
+aside{
+    bottom: 1px;
+    float: right;
+}
