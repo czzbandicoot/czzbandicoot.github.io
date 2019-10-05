@@ -1,0 +1,22 @@
+*{
+    font-family:    Georgia, 'Times New Roman', Times, serif;
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+}
+
+td{
+    border-style: solid;
+    padding: 3px;
+}
+
+th{
+    border-style: solid;
+
+}
+
+li{
+    list-style-type: square;
+}
