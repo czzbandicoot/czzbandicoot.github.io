@@ -3,30 +3,19 @@
     background-color: lightblue;
 }
 
-h1{
-    text-align: center;
+a{
+    background-color: lightgrey;    
 }
 
-.form{
-    border-style: dotted;
-    border-color: blue;
-    padding: 2%;
+img{
+    background-color: lightgray;
 }
 
-.email{
-    width: 30%;
+h6{
+    background-color: lightgray;
 }
 
-.message{
-    width: 50%;
-    height: 100px;
-}
-
-aside{
-    float: right;
-    font-size: 80%;
-}
-
+/*mobile*/
 [class*="cover-"],[class*="links-"]{
     margin: 3%;
     width: 90%;
@@ -57,18 +46,7 @@ aside{
     width: 10%;
     height: 10%; 
     border-style: dashed;
-    background-color: lightgray;
     border-color: blue;
-}
-
-[class*="hr"]{
-    width: 100%;
-    float: left;
-}
-
-[class*="linkedin-"]{
-    width: 3%;
-    height: 3%;
 }
 
 /*tablet*/
@@ -98,15 +76,10 @@ aside{
 
     [class*="icon-t"]{
         width: 30%;
-        height: 30%; 
+        height: 30%;
         border-style: dashed;
-        background-color: lightgray;
         border-color: blue;
-    }
-
-    [class*="linkedin-t"]{
-        width: 2%;
-        height: 2%;
+        
     }
 }
 
@@ -140,17 +113,8 @@ aside{
         width: 7%;
         height: 7%; 
         border-style: dashed;
-        background-color: lightgray;
         border-color: blue;
     }
-
-    [class*="linkedin-d"]{
-        width: 1%;
-        height: 1%;
-    }
-
-    
-
 }
 
 /* ----------------------------------------------

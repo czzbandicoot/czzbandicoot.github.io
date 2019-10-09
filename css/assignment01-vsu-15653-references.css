@@ -3,30 +3,6 @@
     background-color: lightblue;
 }
 
-h1{
-    text-align: center;
-}
-
-.form{
-    border-style: dotted;
-    border-color: blue;
-    padding: 2%;
-}
-
-.email{
-    width: 30%;
-}
-
-.message{
-    width: 50%;
-    height: 100px;
-}
-
-aside{
-    float: right;
-    font-size: 80%;
-}
-
 [class*="cover-"],[class*="links-"]{
     margin: 3%;
     width: 90%;
